@@ -40,7 +40,7 @@ apple/
 1. **Clone the repository**
 
 ```sh
-git clone <repository-url>
+git clone https://github.com/JanssensMaxime/apple_website.git
 cd apple
 ```
 
